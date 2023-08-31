@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-30T18:52:57.750Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tFttWdMQ3ObGcL-3cgH_" version="21.6.7" type="github">
+<mxfile modified="2023-08-31T10:39:15.099Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="S5fiopbl2TwIL6xY7r-w" version="21.6.7" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1134" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="660" y="-501.25" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ggcAxKrhVkJov2pQKjYs-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Notification.svg;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-112" width="44.25" height="44.25" as="geometry" />
+          <mxGeometry x="230" y="-113.37000000000002" width="44.25" height="44.25" as="geometry" />
         </mxCell>
         <mxCell id="ggcAxKrhVkJov2pQKjYs-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.797;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ggcAxKrhVkJov2pQKjYs-28" target="ggcAxKrhVkJov2pQKjYs-30">
           <mxGeometry relative="1" as="geometry" />
@@ -58,13 +58,13 @@
           <mxGeometry x="710" y="-230" width="46" height="27.46" as="geometry" />
         </mxCell>
         <mxCell id="ggcAxKrhVkJov2pQKjYs-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-177.75" width="30.06" height="36.5" as="geometry" />
+          <mxGeometry x="690" y="-170" width="30.06" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="ggcAxKrhVkJov2pQKjYs-44" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disks.svg;" vertex="1" parent="1">
-          <mxGeometry x="609.8100000000002" y="-177.75" width="34.86" height="34.25" as="geometry" />
+          <mxGeometry x="625.1400000000002" y="-170" width="34.86" height="34.25" as="geometry" />
         </mxCell>
         <mxCell id="ggcAxKrhVkJov2pQKjYs-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Interfaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="595.23" y="-234.4" width="41.1" height="36.27" as="geometry" />
+          <mxGeometry x="595.23" y="-230" width="41.1" height="36.27" as="geometry" />
         </mxCell>
         <mxCell id="ggcAxKrhVkJov2pQKjYs-52" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Boards.svg;" vertex="1" parent="1">
           <mxGeometry x="330" y="-117" width="54.25" height="54.25" as="geometry" />
